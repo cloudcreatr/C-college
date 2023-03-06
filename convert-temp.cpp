@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 
-// genrate c++ function to convert temperature from celsius to fahrenheit and print the output
+// write c++ function to convert temperature from celsius to fahrenheit and print the output
 int main()
 {
     float celsius, fahrenheit;

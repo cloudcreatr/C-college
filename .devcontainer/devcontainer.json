@@ -6,6 +6,7 @@
   "extensions": [
 	"ms-vscode.cpptools",
 	"formulahendry.code-runner",
-	"esbenp.prettier-vscode"
+	"esbenp.prettier-vscode",
+	"GitHub.copilot"
 ]
 }
