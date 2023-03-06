@@ -4,7 +4,8 @@
   "name": "C++ development environment",
   "image": "gcc:latest",
   "extensions": [
-    "ms-vscode.cpptools",
-    "formulahendry.code-runner"
-  ]
+	"ms-vscode.cpptools",
+	"formulahendry.code-runner",
+	"esbenp.prettier-vscode"
+]
 }
